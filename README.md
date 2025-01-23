@@ -1,4 +1,4 @@
-# Diabetes Diseases Prediction
+# Diabetes Diseases Prediction 
 
  ### Description:
 This project is aimed at predicting diabetes disease using machine learning techniques. It provides a user-friendly graphical interface for users to input relevant data and get predictions about the likelihood of having diabetes.
